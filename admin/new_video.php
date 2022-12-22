@@ -56,6 +56,18 @@ $adminId = $_SESSION['admin_id'];
               <label for="blogContent">Content</label>
               <textarea id="blogContent">
                 <!-- Place <em>some</em> <u>text</u> <strong>here</strong> -->
+                India TV Online <br><br>
+
+                Follow India TV Online:<br><br>
+
+                Facebook Page:  <a href = 'https://www.facebook.com/India-TV-Online-107934554904059'>https://www.facebook.com/India-TV-Online-107934554904059</a><br>
+                Twitter Page: <a href = 'https://twitter.com/IndiaTVOnline1'>https://twitter.com/IndiaTVOnline1</a><br>
+                Instagram Handle: <a href = 'https://www.instagram.com/indiatvonline/'>https://www.instagram.com/indiatvonline/</a><br>
+                LinkedIn Page: <a href = 'https://www.linkedin.com/in/india-tv-online-b478b5217/'>https://www.linkedin.com/in/india-tv-online-b478b5217/</a><br>
+                Website: <a href = 'https://indiatvonline.in'>https://indiatvonline.in</a><br><br>
+
+                Hit Like 👍, Share and Subscribe ❤<br>
+                Team India TV Online
               </textarea>
             </div>
           </div>
